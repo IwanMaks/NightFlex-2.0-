@@ -176,7 +176,7 @@ body {
 
 .left-menu.openMenu {
     height: 100%;
-    background-color:rgba(0, 131, 143, 0.9);
+    background-color:rgba(0,0, 0, 0.5);
 }
 
 
@@ -199,7 +199,7 @@ body {
 }
 
 .hamburger.open {
-    background-color: #FF637F;
+    background-color: #FF0000;
     -webkit-transition: all ease .5s;
     -o-transition: all ease .5s;
     transition: all ease .5s;
